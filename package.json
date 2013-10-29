@@ -1,9 +1,9 @@
 {
-  "name": "club",
-  "version": "0.3.5",
+  "name": "iLoser å",
+  "version": "0.0.1",
   "main": "app.js",
   "private": true,
-  "customHost": ["cnodejs.org", "club.cnodejs.org"],
+  "customHost": ["iLoser.net"],
   "dependencies": {
     "express": "2.5.11",
     "ejs": "0.8.4",
