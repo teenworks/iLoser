@@ -1,4 +1,4 @@
-iLoser å
+iLoser
 ---
 
 基于Node.js的社区系统搭建
